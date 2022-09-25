@@ -1,7 +1,7 @@
 public class Hello{
   public static void main(Stirng args[]){
 
-    hello world!
+    System..out.println("高立飞hello");
 
 }
 }
